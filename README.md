@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Joseph Mendez</h1>
-<h3 align="center">A passionate developer from Peru</h3>
+<h3 align="center">An AI and technology enthusiast from Lima, Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyiberto&label=Profile%20views&color=0e75b6&style=flat" alt="yoyiberto" /> </p>
 
