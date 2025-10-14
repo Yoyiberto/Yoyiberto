@@ -5,17 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyiberto&label=Profile%20views&color=0e75b6&style=flat" alt="yoyiberto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoyiberto" alt="yoyiberto" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=yoyiberto&only=Experience,Commits,Repositories"
+    />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Inverse Kinematics**
 
 - 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **Raptor 7X**
-
 - 🤝 I’m looking for help with **Productivity App**
 
-- 💬 Ask me about **Codesys and AI**
+- 💬 Ask me about **Robotics and AI**
 
 - 📫 How to reach me **joseph.mendez@pucp.edu.pe**
 
@@ -30,7 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoyiberto&show_icons=true&locale=en&layout=compact" alt="yoyiberto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyiberto&show_icons=true&locale=en" alt="yoyiberto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyiberto&show_icons=true&locale=en&hide=prs,issues,contribs&hide_rank=true" alt="yoyiberto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyiberto&" alt="yoyiberto" /></p>
 
